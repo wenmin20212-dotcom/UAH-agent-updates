@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "stablePublished": true,
+  "stableSequence": 2026101902,
+  "realAnonymousStableFeed": true,
+  "realAnonymousArchiveDownload": true,
+  "signatureAndEveryFileVerified": true,
+  "official096ClientDetects097": true,
+  "already097ClientNoDuplicateUpdate": true,
+  "bytes": 34436044,
+  "otherComputerNotInstalledByThisTest": true,
+  "modelCalled": false
+}
