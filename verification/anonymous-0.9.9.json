@@ -1,0 +1,22 @@
+{
+  "passed": true,
+  "sequence": 2026102001,
+  "signedFeedVerified": true,
+  "anonymousRequests": 7,
+  "authorizationSent": false,
+  "fullArchivesDownloadedAndVerified": [
+    {
+      "component": "host",
+      "version": "0.9.9",
+      "bytes": 291296199,
+      "sha256Verified": true
+    },
+    {
+      "component": "product",
+      "version": "0.9.9",
+      "bytes": 34454364,
+      "sha256Verified": true
+    }
+  ],
+  "liveProgramsModified": false
+}
