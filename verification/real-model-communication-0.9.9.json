@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "realLocalHttp": true,
+  "realReceiverModel": true,
+  "status": "completed",
+  "testMarkerMatched": true,
+  "toolsDisabled": true,
+  "realEmailSent": false,
+  "existingSettingsChanged": false,
+  "receiverModelTestSessionMayBeAdded": true
+}

@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "from": "0.9.7",
+  "to": "0.9.9",
+  "realElectronHealthy": true,
+  "signedHostAndProductActivated": true,
+  "externalProfileAndUserFilesPreserved": true,
+  "productAndHostSlotPathsVerified": true,
+  "communicationSettingsInUpdatedSlot": true,
+  "modelCalled": false
+}
