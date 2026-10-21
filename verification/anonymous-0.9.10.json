@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "anonymous": true,
+  "authorizationHeaderSent": false,
+  "sequence": 2026102101,
+  "productVersion": "0.9.10",
+  "bytes": 34467473,
+  "sha256": "91f29090f8fe31a10da49931d380d5a50b0f3da8f822320e301dab797f915970",
+  "signatureVerified": true,
+  "tag": "stable-incubator-0.9.10-20261021-1",
+  "at": "2026-10-21T10:01:11.390Z"
+}

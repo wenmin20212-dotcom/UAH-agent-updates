@@ -1,0 +1,35 @@
+{
+  "schema": "uah-release-verification/v1",
+  "version": "0.9.10",
+  "mobileVersion": "0.1.5",
+  "sourceCommit": "c78b914",
+  "at": "2026-10-21T10:00:13.524Z",
+  "tests": {
+    "nativeHistoryOver50000": true,
+    "wordTextAndImages": true,
+    "wordRenderedAndVisuallyChecked": true,
+    "realMobileBrowserMenu": true,
+    "mergePreviewProvenanceAndUndo": true,
+    "incubatorMergeDenied": true,
+    "componentOnlyChildUpgrade": true,
+    "signed099To0910Activation": true,
+    "liveFiveApplicationsWindowHealthy": true,
+    "existingModelCareerAndChatPreserved": true,
+    "mobileConfigurationAndHistoryPreserved": true
+  },
+  "modelCalled": false,
+  "emailSent": false,
+  "containsAccountData": false,
+  "liveBackupsKeptPrivately": true,
+  "onlineFeed": {
+    "sequence": 2026102101,
+    "keyId": "f98dea745a89ab9f",
+    "productId": "uah-incubator",
+    "hostVersion": "0.9.9"
+  },
+  "limits": [
+    "Mac not verified",
+    "Desktop export menu not added",
+    "Child component packages and mobile service use separate releases; do not claim the incubator updater updates them all"
+  ]
+}
