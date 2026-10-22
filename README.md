@@ -1,3 +1,15 @@
+# 当前 stable：Google 文档功能更新（2026-10-22）
+
+- 孵化师：**0.9.11**。[完整安装与保留资料升级](https://github.com/wenmin20212-dotcom/UAH-incubator/releases/tag/v0.9.11)（原仓库私有，需访问权限）。
+- 秘书：**0.1.7**。[完整安装与保留资料升级](https://github.com/wenmin20212-dotcom/UAH-secretary-4120.1/releases/tag/v0.1.7)（公开下载）。
+- 签名清单：[stable-google-docs-20261022-1](https://github.com/wenmin20212-dotcom/UAH-agent-updates/releases/tag/stable-google-docs-20261022-1)，序列2026102201。公共host继续为0.9.9。
+
+新增Google Drive/Docs可选接口，支持Word导入原生Google文档；用户需单独完成Google授权。默认只访问本应用文件，没有全盘写、分享或删除权限。
+
+接入在线更新且启用product更新的兼容实例可以检查、下载并重启安装。职业资料或程序有本地修改时自动更新会拒绝覆盖；请使用匹配版本的程序增量升级包，保留资料并先备份。账号令牌、模型、聊天、工作区不进入分发包。手机接口版本仍为0.1.5，无需为本功能另外升级。
+
+以下为更新协议及历史发布说明；当前版本以上述清单为准。
+
 # Agent 统一升级中心
 
 公开地址：https://github.com/wenmin20212-dotcom/UAH-agent-updates
